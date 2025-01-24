@@ -71,7 +71,7 @@ We’re actively looking for passionate contributors to help bring BStern AI to 
 ## 📋 **How to Get Started**  
 If you’re interested in joining us, here’s how you can contribute:  
 1. **Fork this repository** and explore the project files.  
-2. Check the [Issues](https://github.com/your-repo/issues) section for tasks labeled `help wanted` or `good first issue`.  
+2. Check the [Issues](https://github.com/MARTINN25/BSternAI/issues) section for tasks labeled `help wanted` or `good first issue`.  
 3. Share your ideas and suggestions by opening a new Issue or participating in Discussions.  
 4. Reach out to us directly for collaboration opportunities.  
 
