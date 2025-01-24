@@ -72,8 +72,9 @@ We’re actively looking for passionate contributors to help bring BStern AI to 
 If you’re interested in joining us, here’s how you can contribute:  
 1. **Fork this repository** and explore the project files.  
 2. Check the [Issues](https://github.com/MARTINN25/BSternAI/issues) section for tasks labeled `help wanted` or `good first issue`.  
-3. Share your ideas and suggestions by opening a new Issue or participating in Discussions.  
-4. Reach out to us directly for collaboration opportunities.  
+3. Read our [Contribution Guidelines](CONTRIBUTING.md) for more details.  
+4. Review the [Roadmap](ROADMAP.md) to see our planned milestones.  
+5. Share your ideas and suggestions by opening a new Issue or participating in Discussions.  
 
 ---
 
@@ -86,6 +87,12 @@ If you’re interested in joining us, here’s how you can contribute:
 
 ## 🎨 UI Design
 The full interface design is available on [Figma](https://www.figma.com/design/kGLfIuBbkTbyBj4RGoKCEn/Interface-design-BSternAI?node-id=0-1&t=CNWOBDblE100Si0g-1).
+
+---
+
+## 🔗 **Useful Links**  
+- [🌍 Roadmap](ROADMAP.md): See the planned milestones and goals for the project.  
+- [🤝 Contribution Guidelines](CONTRIBUTING.md): Learn how to get involved and contribute to the project.  
 
 ---
 
