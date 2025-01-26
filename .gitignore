@@ -1,0 +1,37 @@
+“# General files”
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.pid
+# Frontend
+node_modules/
+.next/
+out/
+.env.local
+.env.*
+# Backend
+node_modules/
+dist/
+.env
+# AI
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+# Contracts
+node_modules/
+artifacts/
+cache/
+# Docker
+docker-compose.override.yml
+“# Tests and temporary files”
+coverage/
+*.lcov
+*.lcov-report
