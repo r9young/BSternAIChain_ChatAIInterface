@@ -50,7 +50,7 @@ We’re actively looking for passionate contributors to help bring BStern AI to 
 
 3. **Frontend Developers**  
    - **Skills Required:**  
-     - Experience with React.js, Vue.js or Next.js.  
+     - Experience with React.js, Vue.js and Next.js.  
      - Ability to create user-friendly and responsive interfaces.  
    - **Responsibilities:**  
      - Develop a dashboard for users to visualize transaction data.  
