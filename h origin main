@@ -1,0 +1,22 @@
+[33m38cb06e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add Home Page code
+[33md1e0195[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Remove all files except 'Home Page' and 'Sing In'
+[33m2c4e0d3[m Add Sign In code
+[33mc72111c[m Add Home Page code
+[33m0c1cb64[m Merge pull request #8 from HimanshuJain04/dev/himanshu-homepage-ui
+[33mb3903f9[m feat: refactored frontend structure and created menubar ui
+[33m448ad68[m Removed old files and added new project structure
+[33m7c9b45f[m Removed old files and added new project structure
+[33m0d10ebb[m README.md
+[33mab0c3f5[m README.md
+[33mb6f5de3[m Added icons to assets/img
+[33m944ee2a[m Delete assets directory
+[33mda0709e[m Added icons to assets/img
+[33m6ba4128[m CONTRIBUTING.md
+[33m4af4092[m README.md
+[33m66d16e1[m README.md
+[33m51ff11c[m Initialized project structure with empty folders and .gitkeep files
+[33mb10f8c6[m ROADMAP.md
+[33m37de1f5[m CONTRIBUTING.md
+[33m9a6921a[m LICENSE
+[33mfcc8df3[m README.md
+[33m2c4e1dc[m Initial commit
