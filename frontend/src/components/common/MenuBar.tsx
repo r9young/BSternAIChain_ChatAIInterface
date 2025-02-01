@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import React, { useMemo } from "react";
-import logoUrl from "../../../public/images/logo.png";
+import { useRouter } from 'next/navigation';
 import nameUrl from "../../../public/images/name.png";
 import { PRIMARY_LINKS, SECONDARY_LINKS } from "@/constants/menubar";
 import Link from "next/link";
@@ -56,14 +56,24 @@ export function MenuBar() {
     }));
   }, []);
 
+  const router = useRouter();
+
+  const handleSignIn = () => {
+    router.push('/signin');
+  };
+
+  const handleSignUp = () => {
+    router.push('/signup');
+  };
+
   return (
     <div className="h-screen bg-[#0C0C0C] flex flex-col justify-between w-60 border-r-[1px] border-[#2C2C2C]">
       {/* links */}
       <div>
         {/* logo */}
         <div className="flex items-center gap-2 px-5 py-6 border-b-[1px] border-[#2C2C2C]">
-          <Image src={logoUrl} alt="logo" width={40} height={40} />
-          <Image src={nameUrl} alt="logo" width={90} height={18} />
+         
+          <Image src={nameUrl} alt="logo" width={100} />
         </div>
 
         {/* primary links */}
@@ -85,12 +95,12 @@ export function MenuBar() {
       {/* signin/signup button */}
       <div className="p-8 flex flex-col gap-3">
         {/* signup */}
-        <button className="rounded-sm p-2 text-sm bg-[#111111] border-[1px] border-[#2C2C2C]">
+        <button onClick={handleSignUp} className="rounded-sm p-2 text-sm bg-[#111111] border-[1px] border-[#2C2C2C] text-[#C8C8C8]">
           Sign up
         </button>
 
         {/* signin */}
-        <button className="rounded-sm p-2 text-sm bg-[#111111]">Sign In</button>
+        <button onClick={handleSignIn} className="rounded-sm p-2 text-sm bg-[#111111] text-[#C8C8C8]">Sign In</button>
       </div>
     </div>
   );
